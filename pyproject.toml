@@ -1,0 +1,20 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.13.5",
+    "faiss-cpu>=1.12.0",
+    "fitz>=0.0.1.dev2",
+    "google-genai>=1.33.0",
+    "google-generativeai>=0.8.5",
+    "markdown>=3.9",
+    "numpy>=2.3.2",
+    "openai>=1.106.1",
+    "pandas>=2.3.2",
+    "pymupdf>=1.26.4",
+    "reportlab>=4.4.3",
+    "sift-stack-py>=0.8.5",
+    "streamlit>=1.49.1",
+]
