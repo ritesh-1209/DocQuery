@@ -6,5 +6,6 @@ PyMuPDF
 beautifulsoup4
 markdown
 faiss-cpu
+reportlab
 
 
