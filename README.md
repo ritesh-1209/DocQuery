@@ -8,6 +8,11 @@ DocQuery is a powerful document querying application that leverages **Large Lang
 
 **🌐 Live Demo:** [DocQuery on Streamlit Cloud](https://thetrio-docquery.streamlit.app/)
 
+## Screenshots 📸
+
+![DocQuery Interface](https://github.com/yourusername/docquery/blob/main/static/screenshots/docquery-interface.png)
+*Clean, intuitive interface with sidebar navigation and document upload functionality*
+
 ## Features ✨
 
 - 🔀 **Multi-API Support**: OpenAI (GPT-5) & Google Gemini integration
