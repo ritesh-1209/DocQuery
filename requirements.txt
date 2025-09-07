@@ -1,7 +1,9 @@
 streamlit
-python-dotenv
-faiss-cpu
-openai
-PyMuPDF
 pandas
 openai
+typing
+google.generativeai
+PyMuPDF
+bs4
+markdown
+faiss
