@@ -1,0 +1,71 @@
+ACKNOWLEDGEMENTS
+================
+
+This DocQuery application was developed with the assistance of several AI tools, 
+platforms, and services. We extend our sincere gratitude to the following:
+
+AI ASSISTANTS & DEVELOPMENT TOOLS
+----------------------------------
+
+• ChatGPT (OpenAI)
+  - Assisted with initial code structure and problem-solving
+  - Provided guidance on Python best practices and Streamlit implementation
+  - Helped with debugging and optimization strategies
+
+• Claude (Anthropic)
+  - Contributed to code review and documentation generation
+  - Assisted with architecture design and README creation
+  - Provided insights on RAG implementation patterns
+
+• Replit
+  - Online development environment for rapid prototyping
+  - Enabled collaborative coding and real-time testing
+  - Facilitated seamless deployment and iteration cycles
+
+PLATFORMS & FRAMEWORKS
+-----------------------
+
+• Streamlit
+  - Incredible framework that made building this web application intuitive
+  - Excellent documentation and community support
+  - Seamless deployment capabilities through Streamlit Cloud
+
+• OpenAI
+  - GPT models for natural language understanding and generation
+  - Text embedding models for semantic search capabilities
+  - Robust API infrastructure and comprehensive documentation
+
+• Google AI (Gemini)
+  - Advanced language model capabilities
+  - Reliable API services for text generation
+  - Excellent performance for document querying tasks
+
+TECHNICAL CONTRIBUTIONS
+------------------------
+
+The development process was significantly enhanced by:
+- AI-assisted code generation and optimization
+- Automated documentation and README creation
+- Real-time debugging and troubleshooting support
+- Best practice recommendations for RAG implementation
+- UI/UX design suggestions and improvements
+
+DISCLAIMER
+----------
+
+While AI tools provided valuable assistance throughout the development process,
+all final implementations, architectural decisions, and code quality remain
+the responsibility of the human developer(s). The AI assistants served as
+collaborative tools to enhance productivity and code quality.
+
+SPECIAL THANKS
+--------------
+
+We acknowledge that this project represents a collaboration between human
+creativity and AI assistance, showcasing the potential of human-AI partnership
+in software development.
+
+---
+DocQuery Development Team
+
+Ritesh Dubey/The Trio
