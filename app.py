@@ -22,7 +22,7 @@ if 'initialized' not in st.session_state:
     st.session_state.current_document = None
     st.session_state.vector_store = None
     st.session_state.theme = 'light'
-    st.session_state.api_provider = 'openai'  # Default to OpenAI
+    st.session_state.api_provider = 'google'  # Default to Google Generative AI
     st.session_state.api_configured = False
     st.session_state.current_page = 'Document Upload'  # Track current page
 
