@@ -85,7 +85,7 @@ flowchart TD
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/docquery.git
+git clone https://github.com/ritesh-1209/docquery.git
 cd docquery
 ```
 
