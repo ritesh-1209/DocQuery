@@ -9,7 +9,7 @@ from document_processor import DocumentProcessor
 from vector_store import VectorStore
 from chat_manager import ChatManager
 from pdf_exporter import PDFExporter
-from theme_manager import ThemeManager
+# from theme_manager import ThemeManager
 from utils import ensure_directories, format_file_size
 from dotenv import load_dotenv
 load_dotenv()
@@ -39,14 +39,14 @@ except Exception as e:
     api_available = False
 
 pdf_exporter = PDFExporter()
-theme_manager = ThemeManager()
+# theme_manager = ThemeManager()
 
 # Apply theme (ensure it's applied on every run)
-theme_manager.apply_theme(st.session_state.theme)
+# theme_manager.apply_theme(st.session_state.theme)
 
 def main():
     # Apply theme first thing in main function
-    theme_manager.apply_theme(st.session_state.theme)
+    # theme_manager.apply_theme(st.session_state.theme)
     
     st.title("🔍 DocQuery")
     
