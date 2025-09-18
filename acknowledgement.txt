@@ -68,4 +68,5 @@ in software development.
 ---
 DocQuery Development Team
 
-Ritesh Dubey/The Trio
+
+Ritesh Dubey
